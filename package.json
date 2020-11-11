@@ -1,0 +1,14 @@
+{
+  "name": "demo-tdd",
+  "version": "1.0.0",
+  "description": "DEMO TDD FOR MECODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "tino",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
